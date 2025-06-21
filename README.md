@@ -38,8 +38,8 @@ https://hridaan1231.github.io/Calculator/
 ## 🗂️ Project Structure
 calculator/
 ├── index.html
-├── style.css
-└── script.js
+├── calculator.css
+└── calculator.js
 
 
 ---
