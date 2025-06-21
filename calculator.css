@@ -1,0 +1,70 @@
+h1{
+    color:black;
+}
+.func{
+    height:520px;
+    width:275px;
+    border:0.002px solid black;
+    border-radius: 14px;
+    box-shadow: 2px 2px 8px black;
+    padding:10px;
+    flex: 0 0 275px;
+    background-color:#f0f0f0;    
+}
+.display{
+    height:80px;
+    width:260px;
+    border:0.002px solid black;
+    border-radius: 14px;
+    margin-left: 3px;
+    background-color: #fff4e6;
+    color: #333333;   
+    font-size: 35px;
+    padding-bottom:0;
+    padding-right: 0;
+}
+.btn{
+    height:60px;
+    width:60px;
+    font-size: 22px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 5px;
+    background-color: #FF9500;
+    color:beige;
+    
+}
+#rst,#eto{
+    font-size: 18px;
+}
+.num{
+    height:250px;
+    width:280px;
+    padding-left: 20px;
+    gap:10px;
+
+   
+}
+#one,#two,#three,#four,#five,#six,#seven,#eight,#nine{
+    height: 64px;
+    width:64px;
+    margin-left:0px;
+    margin-right: 16px;
+    
+    
+    
+
+}
+#zero{
+    height: 64px;
+    width:64px;
+    margin-left: 84px;
+     gap:4px;
+   
+
+}
+ section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
